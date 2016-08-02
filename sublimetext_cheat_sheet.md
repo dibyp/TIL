@@ -13,3 +13,37 @@
 
 ### Quick Find All
 - alt + F3
+
+ctrl + shift + p
+: 빠른 검색
+
+'빠른 검색'창에 syntax html로 문서의 syntax 빠르게 변경
+
+ctrl + shift + k
+: 빠른 삭제
+
+문서 크기 조절
+ctrl + + or ctrl + -
+
+ctrl + b + k
+: 사이드바 열고 닫기
+
+preferences
+-> browser package
+user folder
+
+빠른 검색
+install
+auto file name
+
+ctrl + shift + g
+: emmet의 선택 블록에 요소 빠르게 지정
+
+ctrl + u
+: width, height 자동 채움
+
+ctrl + k + u
+: 대문자 소문자 바꿔주기
+
+ctrl + shift + d
+: line 복제
